@@ -29,8 +29,6 @@ Make sure you have [Node.js](https://nodejs.org/) with [npm](https://www.npmjs.c
    Running on http://localhost:3000
    ```
 
-6. For quick view there is an github pages url where you can accss : 'todo --link here'
-
 ## Project Structure
 
 - `src/`: Contains the source code for the React components.
